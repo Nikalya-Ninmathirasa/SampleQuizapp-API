@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "XipcxIdK55JIL/ssizWMBTjKwMob9ClshYq09GPpjuA=",
+  "Source": "UserAuthentication",
+  "BasePath": "_content/UserAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UserAuthentication\\wwwroot",
+      "Source": "UserAuthentication",
+      "ContentRoot": "D:\\Unicom\\UserAuthentication\\wwwroot\\",
+      "BasePath": "_content/UserAuthentication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Unicom\\UserAuthentication\\wwwroot\\uploads\\OIP.jpg",
+      "SourceId": "UserAuthentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Unicom\\UserAuthentication\\wwwroot\\",
+      "BasePath": "_content/UserAuthentication",
+      "RelativePath": "uploads/OIP.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\OIP.jpg"
+    },
+    {
+      "Identity": "D:\\Unicom\\UserAuthentication\\wwwroot\\uploads\\th.jpg",
+      "SourceId": "UserAuthentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Unicom\\UserAuthentication\\wwwroot\\",
+      "BasePath": "_content/UserAuthentication",
+      "RelativePath": "uploads/th.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\th.jpg"
+    }
+  ]
+}
